@@ -38,7 +38,7 @@ A CLI to browse and watch anime from <a href="https://anime-sama.fr">anime-sama.
 
 ## Install
 
-[![Packaging status](https://repology.org/badge/vertical-allrepos/animesama-cli.svg?minversion=1.0.0)](https://repology.org/project/animesama-cli/versions)
+[![Packaging status](https://repology.org/badge/vertical-allrepos/animesama-cli.svg?minversion=1.0.5)](https://repology.org/project/animesama-cli/versions)
 
 ### First Install
 

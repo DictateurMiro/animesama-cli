@@ -37,7 +37,7 @@ Un outil en ligne de commande pour parcourir et regarder des animes depuis <a hr
 
 ## Installation
 
-[![État des paquets](https://repology.org/badge/vertical-allrepos/animesama-cli.svg?minversion=1.0.0)](https://repology.org/project/animesama-cli/versions)
+[![État des paquets](https://repology.org/badge/vertical-allrepos/animesama-cli.svg?minversion=1.0.5)](https://repology.org/project/animesama-cli/versions)
 
 ### Première Installation
 
@@ -158,5 +158,6 @@ endlocal
 * [ani-cli](https://github.com/pystardust/ani-cli) : Voix japonaise avec sous-titres anglais et voix anglaise (allmanga)
 * [GoAnime](https://github.com/alvarorichard/GoAnime) : Voix japonaise avec sous-titres portugais et voix portugaise
 * [doccli](https://github.com/TowarzyszFatCat/doccli) : Voix japonaise avec sous-titres polonais et voix polonaise (docchi.pl)
+
 
 ### Idée originale [ani-cli](https://github.com/pystardust/ani-cli)
